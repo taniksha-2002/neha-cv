@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.nehacv.NehaCvApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-24T11:13:39" hostname="MGSWLP148" time="1.049">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.nehacv.NehaCvApplicationTests" time="1.049"/>
+  <system-out><![CDATA[16:43:37.904 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.nehacv.NehaCvApplicationTests]: NehaCvApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+16:43:37.984 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.nehacv.NehaCvApplication for test class com.example.nehacv.NehaCvApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.2)
+
+2024-01-24T16:43:38.265+05:30  INFO 19824 --- [    Test worker] c.example.nehacv.NehaCvApplicationTests  : Starting NehaCvApplicationTests using Java 17 with PID 19824 (started by MGSUser in C:\Users\MGSUser\Downloads\neha-cv\neha-cv)
+2024-01-24T16:43:38.267+05:30  INFO 19824 --- [    Test worker] c.example.nehacv.NehaCvApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2024-01-24T16:43:39.040+05:30  INFO 19824 --- [    Test worker] c.example.nehacv.NehaCvApplicationTests  : Started NehaCvApplicationTests in 0.927 seconds (process running for 1.892)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
